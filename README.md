@@ -9,8 +9,8 @@ This project contains sample set of test cases for manual testers to help them f
 
 
 ## :question: Need Assistance?
-* Discuss your queries by writing to me @ mohammadfaisalkhatri@gmail.com
-* Connect me at [LinkedIn][]
+* Discuss your queries by writing to me @ rubaetqaiyum@gmail.com
+* Connect me at [LinkedIn]
 
 ## :thought_balloon: Checkout the blogs related to Testing 
 
