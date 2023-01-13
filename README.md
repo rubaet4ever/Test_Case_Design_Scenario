@@ -4,15 +4,15 @@
 This project contains sample set of test cases for manual testers to help them for writing manual test cases.
 
 
-## :bulb: Sample Test Cases and templates are added for the following:
+## :bulb: Sample Test Cases and Templates are Added For The Following:
 - Sign Up Test Cases.
 
 
-## :question: Need Assistance?
+## :Question: Need Assistance?
 * Discuss your queries by writing to me @ rubaetqaiyum@gmail.com
 * Connect me at [LinkedIn]
 
-## :thought_balloon: Checkout the blogs related to Testing 
+## :thought_balloon: Checkout The Blogs Related To Testing 
 
-[home]: https://github.com/mfaisalkhatri/Manual_Testing
+[home]: https://github.com/rubaet4ever/Manual_Testing
 [linkedIn]: https://www.linkedin.com/in/rubaet-bin-qaiyum/
