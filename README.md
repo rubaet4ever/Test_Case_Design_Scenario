@@ -8,7 +8,7 @@ This project contains sample set of test cases for manual testers to help them f
 - Sign Up Test Cases.
 
 
-## :Question: Need Assistance?
+## :question: Need Assistance?
 * Discuss your queries by writing to me @ rubaetqaiyum@gmail.com
 * Connect me at [LinkedIn]
 
