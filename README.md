@@ -5,7 +5,9 @@ This project contains sample set of test cases for manual testers to help them f
 
 
 ## :bulb: Sample Test Cases and Templates are Added For The Following:
-- Sign Up Test Cases.
+- Sign Up Test Cases
+- App Video & Audio Call Test Case
+- User Registration & Functionality & UI
 
 
 ## :question: Need Assistance?
