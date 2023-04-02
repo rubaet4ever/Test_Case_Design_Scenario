@@ -8,7 +8,7 @@ This project contains sample set of test cases for manual testers to help them f
 - Sign Up Test Cases
 - App Video & Audio Call Test Case
 - User Registration & Functionality & UI
-- Test Case - Login
+- Login Test Case Name
 
 
 ## :question: Need Assistance?
