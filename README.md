@@ -1,7 +1,7 @@
 # Test_Case_Design_Scenario
 
 ## :boom: What is it all about?
-This project contains sample set of test cases for testers to help them for writing manual test cases.
+This project contains sample set of test cases for testers to help them for writing test cases.
 
 
 ## :bulb: Sample Test Cases and Templates are Added For The Following:
