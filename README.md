@@ -10,6 +10,7 @@ This project contains sample set of test cases for manual testers to help them f
 - User Registration & Functionality & UI
 - Login Test Case Name
 - Automation Search Box - Test Case
+- Test Case Design & Scenario
 
 
 ## :question: Need Assistance?
