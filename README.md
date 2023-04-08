@@ -1,4 +1,4 @@
-# Manual_Testing
+# Test_Case_Design_Scenario
 
 ## :boom: What is it all about?
 This project contains sample set of test cases for manual testers to help them for writing manual test cases.
