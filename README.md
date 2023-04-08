@@ -11,6 +11,7 @@ This project contains sample set of test cases for manual testers to help them f
 - Login Test Case Name
 - Automation Search Box - Test Case
 - Test Case Design & Scenario
+- Mobile App Menu Test Case Design & Scenario
 
 
 ## :question: Need Assistance?
