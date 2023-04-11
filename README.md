@@ -12,6 +12,7 @@ This project contains sample set of test cases for testers to help them for writ
 - Automation Search Box - Test Case
 - Test Case Design & Scenario
 - Mobile App Menu Test Case Design & Scenario
+- Test Case Login - UI, Functionality & Security
 
 
 ## :question: Need Assistance?
