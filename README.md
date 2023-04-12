@@ -9,7 +9,8 @@ This project contains sample set of test cases for testers to help them for writ
 - App Video & Audio Call Test Case
 - User Registration & Functionality & UI
 - Login Test Case Name
-- Automation Search Box - Test Case
+- Automation Search Box Test Case
+- Automation Web Testing Test Case
 - Test Case Design & Scenario
 - Mobile App Menu Test Case Design & Scenario
 - Test Case Login - UI, Functionality & Security
