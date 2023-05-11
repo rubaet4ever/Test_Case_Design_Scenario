@@ -4,7 +4,7 @@
 This project contains sample set of test cases for testers to help them for writing test cases design & scenario.
 
 
-## :bulb: Sample Test Cases design and scenario are Added For The Following:
+## :bulb: Sample Test Cases Design and Scenario are Added For The Following:
 - Sign Up Test Cases
 - App Video & Audio Call Test Case
 - User Registration & Functionality & UI
