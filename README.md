@@ -15,6 +15,7 @@ This project contains sample set of test cases for testers to help them for writ
 - Mobile App Menu Test Case Design & Scenario
 - Test Case Login - UI, Functionality & Security
 - Test Case - Common API
+- Test Cases - Common API 2
 
 
 ## :question: Need Assistance?
